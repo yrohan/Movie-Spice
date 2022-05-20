@@ -9,7 +9,7 @@ Rating categories used by me are acting, plot and sound which
 are core elements of any movie.
 
 ## Screenshots
-https://github.com/yrohan/Movie-Spice/blob/main/proj-screenshot/2020-06-15%2012_10_53-Window.png
+![Alt text](proj-screenshot/2020-06-15%2012_10_53-Window.png)
 ## Run Locally
 
 Clone the project
