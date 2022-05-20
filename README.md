@@ -10,6 +10,8 @@ are core elements of any movie.
 
 ## Screenshots
 ![Alt text](proj-screenshot/2020-06-15%2012_10_53-Window.png)
+![Alt text](proj-screenshot/2020-06-15 12_12_40-Window.png)
+![Alt text](proj-screenshot/2020-06-15 12_13_34-Window.png)
 ## Run Locally
 
 Clone the project
